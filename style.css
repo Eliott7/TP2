@@ -1,13 +1,13 @@
 #container
 {
-	margin: 0 30px;
-	background: #fff;
+	margin: 0 60px;
+	background: 		#555;
 }
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background: #459;
+	padding: 15px;
 }
 
 #header h1 { margin: 0; }
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #ccc;
 }
 
 #navigation ul
@@ -83,12 +83,13 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #459;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
